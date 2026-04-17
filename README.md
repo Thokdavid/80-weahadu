@@ -1,14 +1,14 @@
-# 80 weahadu
-## ሰማንያ ወአሃዱ
-### Old Testament
-1.  [x] Genesis (ኦሪት ዘፍጥረት)
-2.  [x] Exodus (ኦሪት ዘጸአት)
-3.  [x] Leviticus (ኦሪት ዘሌዋውያን)
-4.  [x] Numbers (ኦሪት ዘኁልቍ)
-5.  [x] Deuteronomy (ኦሪት ዘዳግም)
-6.  [x] Joshua (መጽሐፈ ኢያሱ ወልደ ነዌ)
-7.  [x] Judges (መጽሐፈ መሣፍንት)
-8.  [x] Ruth (መጽሐፈ ሩት)
+# RUA̲C KUOTH ƐN RƐL RƆ
+## ŊÄÄTH NI KUOTH
+### Old Rua̲c kuoth e wal
+1.  [x] Genesis (Tuk cäkä ɣɔaa)
+2.  [x] Exodus (ɣoth gan ithruɛl)
+3.  [x] Leviticus (ji libay)
+4.  [x] Numbers (Kuɛɛn)
+5.  [x] Deuteronomy (ŋuɔt)
+6.  [x] Joshua (bok jɔcua)
+7.  [x] Judges (ruɛɛc)
+8.  [x] Ruth (bok ruth)
 9.  [x] 1 Samuel (መጽሐፈ ሳሙኤል ቀዳማዊ)
 10. [x] 2 Samuel (መጽሐፈ ሳሙኤል ካልእ)
 11. [x] 1 Kings (መጽሐፈ ነገሥት ቀዳማዊ)
